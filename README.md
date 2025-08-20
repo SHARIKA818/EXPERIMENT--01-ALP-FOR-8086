@@ -113,6 +113,7 @@ HLT
 ```
 ## Output  
 <img width="1278" height="848" alt="Screenshot 2025-08-20 104008" src="https://github.com/user-attachments/assets/33b29462-0f96-4fb1-9d97-0caef9e002de" />
+
 ## Programs for logical  operations
 
 ## AND
