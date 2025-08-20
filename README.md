@@ -93,6 +93,7 @@ HLT
 ```
 ## Output
 <img width="1288" height="854" alt="Screenshot 2025-08-20 103811" src="https://github.com/user-attachments/assets/616f90b2-5e9d-47e9-843a-8d9a842fa7bd" />
+
 ## Multiplication alp 
 ```
 MOV AL,53h;
@@ -102,6 +103,7 @@ HLT
 ```
  ## Output  
  <img width="1222" height="831" alt="Screenshot 2025-08-20 103921" src="https://github.com/user-attachments/assets/b348570e-c93f-4d5e-a50e-dbd0ec4c872b" />
+ 
 ## Division alp
 ```
 MOV AL,53h;
@@ -112,6 +114,7 @@ HLT
 ## Output  
 <img width="1278" height="848" alt="Screenshot 2025-08-20 104008" src="https://github.com/user-attachments/assets/33b29462-0f96-4fb1-9d97-0caef9e002de" />
 ## Programs for logical  operations
+
 ## AND
 ```
 MOV AL,53h;
